@@ -73,19 +73,3 @@ Basic security measures implemented:
 
 
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/bachelor-thesis-nkdbooks.git
-
-# Install backend dependencies
-cd backend
-npm install
-
-# Install frontend dependencies
-cd ../frontend
-npm install
-
-# Run the application
-npm start
